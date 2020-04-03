@@ -1,3 +1,20 @@
-h1 {font-family: helvetica;
+
+
+
+
+h1 {font-family: 'Fascinate Inline', cursive;
 color:purple;
+font-size: 200px;
+}
+
+ body{background-color:  pink
+    }
+
+.yellow-box {
+    background-color: purple;
+    padding: 20px;
+
+.box {
+  border-color: purple;
+  border-width: medium;
 }
